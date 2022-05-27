@@ -1,8 +1,6 @@
 # Hello Worlds
 
-## Overview 
-Hello Worlds of all the languages I learn
-
+After semi learning the syntax of a new language, I will add the hello world into here
 
 ## Info
 
